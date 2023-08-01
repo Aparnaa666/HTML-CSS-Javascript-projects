@@ -1,2 +1,1 @@
-# Javascript-mini-projects
- Just making mini projects using Javascript
+All the major and mini projects i created and deployed using pure HTML, CSS and Javascript
